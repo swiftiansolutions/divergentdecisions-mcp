@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Protocol or methodology question?
+    url: https://github.com/swiftiansolutions/idea-museum/issues
+    about: Questions about bootstrap, SIPs, catalogue cards, or the Idea Museum protocol belong in the idea-museum repository.
+  - name: Usage discussion or general conversation
+    url: https://github.com/swiftiansolutions/divergentdecisions-mcp/discussions
+    about: Not sure if it's a bug? Want to share how you're using the museum? Start a discussion.
